@@ -1,1 +1,1 @@
-FLASK_APP=Interactive Dashboards - Belly Button/app.py flask run
+FLASK_APP=app.py flask run
