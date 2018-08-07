@@ -1,1 +1,1 @@
-web: gunicorn Interactive Dashboards - Belly Button.app:app
+web: gunicorn app:app
